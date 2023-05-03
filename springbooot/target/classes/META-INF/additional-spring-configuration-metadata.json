@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "users.name",
+    "type": "java.lang.String",
+    "description": "A description for 'users.name'"
+  },
+  {
+    "name": "user.email",
+    "type": "java.lang.String",
+    "description": "A description for 'user.email'"
+  },
+  {
+    "name": "users.email",
+    "type": "java.lang.String",
+    "description": "A description for 'users.email'"
+  },
+  {
+    "name": "users.email",
+    "type": "java.lang.String",
+    "description": "A description for 'users.email'"
+  },
+  {
+    "name": "users.email",
+    "type": "java.lang.String",
+    "description": "A description for 'users.email'"
+  },
+  {
+    "name": "users.email",
+    "type": "java.lang.String",
+    "description": "A description for 'users.email'"
+  }
+]}
